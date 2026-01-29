@@ -1,2 +1,3 @@
 # singh-chauhan
-this is my firstreprositiory
+this is my first reprositiory
+auther saurabh singh
